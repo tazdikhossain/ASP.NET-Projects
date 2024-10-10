@@ -1,0 +1,27 @@
+﻿
+@model ClothesManagementSystem.Models.Category
+
+@{
+    ViewBag.Title = "AddCategory";
+
+}
+
+
+<h2>Category Add</h2>
+<hr />
+
+@using (Html.BeginForm("CreateCategory", "Admin", FormMethod.Post))
+{
+    <div class="container">
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Type)
+            @Html.TextBoxFor(x => x.Type, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <input id="saveBtn" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+
+    </div>
+}

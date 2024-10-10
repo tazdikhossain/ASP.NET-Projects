@@ -1,0 +1,51 @@
+﻿
+@model List<ClothesManagementSystem.Models.CartItem>
+
+<h2>Cart</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-hover">
+        <tr>
+            <th>Name</th>
+            <th>Category Type</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total Amount</th>
+        </tr>
+
+        @foreach (var items in Model)
+        {
+            <tr>
+                <td>@items.Product.Name</td>
+                <td>@items.Product.Category.Type</td>
+                <td>@items.Product.Price</td>
+                <td>@items.Quantity</td>
+                <td>@(items.Product.Price * items.Quantity)</td>
+                <td>
+                    <a href="@Url.Action("RemoveFromCart", new { productId = items.ProductId })" class="btn btn-primary">
+                        Remove From Cart
+                    </a>
+                </td>
+            </tr>
+        }
+
+        <tr>
+            <td colspan="5"><h2 class="text-center">Total Amount</h2></td>
+            <td>
+                @{
+                    var total = Model.Sum(ci => ci.Product.Price * ci.Quantity);
+                }
+                <h2>@total</h2>
+            </td>
+        </tr>
+    </table>
+    <a href="@Url.Action("AddOrder", new { total })" class="btn btn-primary">
+        CheckOut
+    </a>
+}
+else
+{
+    <p>Your Cart is empty.</p>
+}
+

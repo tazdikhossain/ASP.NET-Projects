@@ -1,0 +1,38 @@
+﻿﻿﻿@model List<ClothesManagementSystem.Models.Wishlist>
+@{
+    ViewBag.Title = "ShowWishList";
+}
+
+<head>
+    <!-- Other head elements -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
+<h2>WishList</h2>
+
+<hr />
+
+<div class="row">
+
+    @foreach (var items in Model)
+    {
+      <div class="col-lg-6 col-md-12 mb-2">
+        <div class="card mb-3" style="max-width: 540px;">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="~/Content/Images/@items.Product.ProductPic" class="img-fluid rounded-start" alt="@items.Product.Name">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Name: @items.Product.Name</h5>
+                        <p class="card-text">Price: ৳ @items.Product.Price</p>
+                        <a href="@Url.Action("AddToCart", "Customer", new { ProductId= items.Product.Id })" ><i class="fa-solid fa-cart-shopping m-4 fs-3"></i></a>
+                        <a href="@Url.Action("DeleteWishlist", "Customer", new {items.Id})"><i class="fa-solid fa-trash fs-3"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    }
+ </div>
+

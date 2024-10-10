@@ -1,0 +1,48 @@
+﻿﻿﻿@model List<List<ClothesManagementSystem.Models.OrderDetails>>
+@{
+    ViewBag.Title = "Order Details";
+}
+
+<h2>My Order</h2>
+
+<hr />
+
+@*<div class=" card align-items-center">*@
+    @foreach (var items in Model)
+    {
+
+        <div class="card mb-3 align-items-center" style="max-width: 1000px;">
+            @for (var i = 0; i < items.Count; i++)
+            {
+                <div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="~/Content/Images/@items[i].Product.ProductPic" class="img-fluid rounded-start" alt="@items[i].Product.Name">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Name: @items[i].Product.Name</h5>
+                                <p class="card-text">Price: ৳ @items[i].Product.Price</p>
+                                <p class="card-text">Qty: @items[i].Quantity</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> <br />
+                if (i == items.Count - 1 && items.Count > 1)
+                {
+                    <h3>Total price: @items[i].Order.ProductAmount</h3>
+                    <a href="@Url.Action("DeleteOrder","Customer", new {@Id= items[i].OrderId})" class="btn btn-danger">Cancel Order</a>
+                }
+                if (items.Count == 1)
+                {
+                    <h3>Total price: @items[i].Order.ProductAmount</h3>
+                    <a href="@Url.Action("DeleteOrder","Customer", new {@Id= items[i].OrderId})" class="btn btn-danger">Cancel Order</a>
+                }
+            }
+        </div>
+
+    }
+@*</div>*@
+
+
+

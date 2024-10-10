@@ -1,0 +1,960 @@
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+C:\Users\USER\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\Backend\ClothesManagementSystem\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateOrderAndOrderDetailsTable.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+F:\University lecture class notes (semester 10)\ADVANCED PROGRAMMING WITH .NET (B)\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateOrderAndOrderDetailsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateOrderAndOrderDetailsTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reviewUpdate.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProduct.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProductTable.resources
+C:\Users\MD. TANVIR ISLAM\Downloads\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.Validation.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateOrderAndOrderDetailsTable.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reviewUpdate.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProduct.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProductTable.resources
+G:\10.Summer 2023-2024\Adv .Net\project\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.Validation.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\ClothesManagementSystem.pdb
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csc.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\csi.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Owin.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\WebGrease.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.Razor.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reven.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateWishlistsTable.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateCartItemsTable.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.CreateOrderAndOrderDetailsTable.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.reviewUpdate.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProduct.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.updateProductTable.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.Migrations.Validation.resources
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.GenerateResource.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesM.34CF564C.Up2Date
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.dll
+C:\Users\TAZDIK HOSSAIN\Downloads\ClothesManagementSystem 3\ClothesManagementSystem\ClothesManagementSystem\obj\Debug\ClothesManagementSystem.pdb

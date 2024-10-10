@@ -1,0 +1,83 @@
+﻿@using ClothesManagementSystem.Models
+@model ClothesManagementSystem.Models.Product
+@{
+    ViewBag.Title = "AddProduct";
+    ApplicationDbContext _dbContext = new ApplicationDbContext();
+}
+
+<style>
+    .err {
+        color: red;
+        font-size: small;
+    }
+</style>
+
+<h2>Enter New Product</h2>
+<hr />
+
+@using (Html.BeginForm("CreateProduct", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="container">
+
+        @Html.HiddenFor(Model => Model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Name)
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Name, "", new { @class = "err" })
+        </div>
+
+        @{
+            var categories_data = _dbContext.Category.ToList();
+        }
+        <div class="form-group">
+            @Html.LabelFor(x => x.CategoryId)
+            @Html.DropDownListFor(x => x.CategoryId, new SelectList(categories_data, "CategoryId", "Type"), "--Select--", new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.CategoryId, "", new { @class = "err" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Description)
+            @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Description, "", new { @class = "err" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Material)
+            @Html.TextBoxFor(x => x.Material, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Material, "", new { @class = "err" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Brand)
+            @Html.TextBoxFor(x => x.Brand, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Brand, "", new { @class = "err" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.Price)
+            @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Price, "", new { @class = "err" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Quantity)
+            @Html.TextBoxFor(x => x.Quantity, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Quantity, "", new { @class = "err" })
+        </div>
+
+        <div>
+            @Html.LabelFor(x => x.ProductPic)
+
+            @*<td>
+                <img src="~/Content/Images/@Model.ProductPic" alt="@Model.Name" width="100" height="100" />
+            </td>*@
+
+            <td><input type="file" name="File" class="form-control" /></td>
+        </div>
+
+
+        <div class="form-group">
+            <input id="saveBtn" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+
+    </div>
+}
+
